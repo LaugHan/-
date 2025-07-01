@@ -1,5 +1,4 @@
-# -
-记录怎么在Linux(Ubuntu)上面配置代理
+# 记录怎么在Linux(Ubuntu)上面配置代理
 
 首先是下载clash这个文件，然后解压
 ```
